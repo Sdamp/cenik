@@ -2,11 +2,17 @@
   {
     "_id": "697917eecdac56e7cbc3595e",
     "name": "cbgv",
-    "items": [],
+    "items": [
+      {
+        "name": "hjk",
+        "price": 0,
+        "note": ""
+      }
+    ],
     "note": "",
     "createdAt": "2026-01-27T19:54:22.476Z",
-    "updatedAt": "2026-01-27T19:54:22.476Z",
-    "__v": 0
+    "updatedAt": "2026-01-28T16:30:24.908Z",
+    "__v": 1
   },
   {
     "_id": "69791785cdac56e7cbc3595b",
