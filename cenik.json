@@ -2,11 +2,21 @@
   {
     "_id": "69791785cdac56e7cbc3595b",
     "name": "git test",
-    "items": [],
+    "items": [
+      {
+        "name": "jh",
+        "price": 0,
+        "note": "",
+        "keywords": [
+          "zapal plic",
+          "cholera"
+        ]
+      }
+    ],
     "note": "",
     "createdAt": "2026-01-27T19:52:37.194Z",
-    "updatedAt": "2026-01-27T19:52:37.194Z",
-    "__v": 0
+    "updatedAt": "2026-02-02T15:36:06.466Z",
+    "__v": 1
   },
   {
     "_id": "6978e662aec14c91ea1d2030",
@@ -31,21 +41,25 @@
     "name": "test",
     "items": [
       {
+        "keywords": [],
         "name": "test2",
         "price": 69,
         "note": "haha69"
       },
       {
+        "keywords": [],
         "name": "lol",
         "price": 0,
         "note": "45646"
       },
       {
+        "keywords": [],
         "name": "Měření složení těla** + malý protokol",
         "price": 450,
         "note": "Určení přesného složení těla se provádí pomocí váhy InBody. Měří se množství kosterních svalů, tělesného tuku, minerálních látek a tělesné vody"
       },
       {
+        "keywords": [],
         "name": "Měření složení těla** + velký protokol",
         "price": 650,
         "note": "Určení přesného složení těla se provádí pomocí váhy InBody. Měří se množství kosterních svalů, tělesného tuku, minerálních látek a tělesné vody"
@@ -61,6 +75,7 @@
     "name": "test edit",
     "items": [
       {
+        "keywords": [],
         "name": "hjk",
         "price": 0,
         "note": ""
