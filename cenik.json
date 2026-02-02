@@ -11,6 +11,15 @@
           "zapal plic",
           "horečka"
         ]
+      },
+      {
+        "name": "test",
+        "price": 69,
+        "note": "xddd",
+        "keywords": [
+          "cenik",
+          "json"
+        ]
       }
     ]
   },
