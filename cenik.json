@@ -1,7 +1,7 @@
 [
   {
-    "_id": "69791785cdac56e7cbc3595b",
     "name": "git test",
+    "note": "",
     "items": [
       {
         "name": "jh",
@@ -12,78 +12,53 @@
           "horečka"
         ]
       }
-    ],
-    "note": "",
-    "createdAt": "2026-01-27T19:52:37.194Z",
-    "updatedAt": "2026-02-02T15:37:40.834Z",
-    "__v": 2
+    ]
   },
   {
-    "_id": "6978e662aec14c91ea1d2030",
-    "name": "lol",
-    "items": [],
-    "note": "",
-    "createdAt": "2026-01-27T16:22:58.793Z",
-    "updatedAt": "2026-01-27T16:22:58.793Z",
-    "__v": 0
-  },
-  {
-    "_id": "69791a56f6aed1599e5b4af8",
     "name": "m hbjv",
-    "items": [],
     "note": "",
-    "createdAt": "2026-01-27T20:04:38.288Z",
-    "updatedAt": "2026-01-27T20:04:38.288Z",
-    "__v": 0
+    "items": []
   },
   {
-    "_id": "6978e3595f9eb32f0a11cb16",
     "name": "test",
+    "note": "lolec",
     "items": [
       {
-        "keywords": [],
         "name": "test2",
         "price": 69,
-        "note": "haha69"
+        "note": "haha69",
+        "keywords": []
       },
       {
-        "keywords": [],
         "name": "lol",
         "price": 0,
-        "note": "45646"
+        "note": "45646",
+        "keywords": []
       },
       {
-        "keywords": [],
         "name": "Měření složení těla** + malý protokol",
         "price": 450,
-        "note": "Určení přesného složení těla se provádí pomocí váhy InBody. Měří se množství kosterních svalů, tělesného tuku, minerálních látek a tělesné vody"
+        "note": "Určení přesného složení těla se provádí pomocí váhy InBody. Měří se množství kosterních svalů, tělesného tuku, minerálních látek a tělesné vody",
+        "keywords": []
       },
       {
-        "keywords": [],
         "name": "Měření složení těla** + velký protokol",
         "price": 650,
-        "note": "Určení přesného složení těla se provádí pomocí váhy InBody. Měří se množství kosterních svalů, tělesného tuku, minerálních látek a tělesné vody"
+        "note": "Určení přesného složení těla se provádí pomocí váhy InBody. Měří se množství kosterních svalů, tělesného tuku, minerálních látek a tělesné vody",
+        "keywords": []
       }
-    ],
-    "note": "lolec",
-    "createdAt": "2026-01-27T16:10:01.236Z",
-    "updatedAt": "2026-01-27T18:45:41.680Z",
-    "__v": 4
+    ]
   },
   {
-    "_id": "697917eecdac56e7cbc3595e",
     "name": "test edit",
+    "note": "",
     "items": [
       {
-        "keywords": [],
         "name": "hjk",
         "price": 0,
-        "note": ""
+        "note": "",
+        "keywords": []
       }
-    ],
-    "note": "",
-    "createdAt": "2026-01-27T19:54:22.476Z",
-    "updatedAt": "2026-01-28T16:30:49.956Z",
-    "__v": 1
+    ]
   }
 ]
