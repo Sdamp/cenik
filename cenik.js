@@ -20,16 +20,33 @@ function renderCenik(data) {
     
     // Přidání event listeneru pro vyhledávání
     document.getElementById('searchBox').addEventListener('input', handleSearch);
+    
+    // Přidání event listenerů pro rozbalovací kategorie
+    document.querySelectorAll('.category-header').forEach(header => {
+        header.addEventListener('click', function() {
+            this.parentElement.classList.toggle('collapsed');
+        });
+    });
 }
 
 const renderCategory = (category) => {
     html += `<li class="category" data-category-name="${category.name.toLowerCase()}">
-                <strong>${category.name}</strong>
+                <div class="category-header">
+                    <strong>${category.name}</strong>
+                    <span class="category-arrow">▼</span>
+                </div>
                 <span>${category.note}</span>
             <ul>`;
     category.items.forEach(item => {
         const keywords = item.keywords ? item.keywords.join(' ').toLowerCase() : '';
-        html += `<li class="item" data-item-name="${item.name.toLowerCase()}" data-keywords="${keywords}">${item.name}: ${item.price}</li>`;
+        const noteHtml = item.note ? `<div class="item-note">${item.note}</div>` : '';
+        html += `<li class="item" data-item-name="${item.name.toLowerCase()}" data-keywords="${keywords}">
+                    <div class="item-header">
+                        <span>${item.name}</span>
+                        <span class="price">${item.price},-Kč</span>
+                    </div>
+                    ${noteHtml}
+                </li>`;
     });
     html += '</ul></li>';
 }
