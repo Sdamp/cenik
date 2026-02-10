@@ -2,7 +2,14 @@
   {
     "name": "Fyzioterapie",
     "note": "",
-    "items": []
+    "items": [
+      {
+        "name": "Komplexní kineziologické vyšetření",
+        "price": 910,
+        "note": "",
+        "keywords": []
+      }
+    ]
   },
   {
     "name": "Nutriční terapie",
