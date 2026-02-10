@@ -104,7 +104,14 @@
   {
     "name": "Medicinální pedikůra",
     "note": "",
-    "items": []
+    "items": [
+      {
+        "name": "Medicinální pedikérské ošetření",
+        "price": 750,
+        "note": "",
+        "keywords": []
+      }
+    ]
   },
   {
     "name": "Nutriční terapie",
