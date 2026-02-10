@@ -80,6 +80,12 @@
         "price": 400,
         "note": "",
         "keywords": []
+      },
+      {
+        "name": "Administrativní výkon",
+        "price": 140,
+        "note": "",
+        "keywords": []
       }
     ]
   }
