@@ -62,6 +62,12 @@
         "price": 50,
         "note": "až 150,- Kč",
         "keywords": []
+      },
+      {
+        "name": "Barvení obočí",
+        "price": 100,
+        "note": "",
+        "keywords": []
       }
     ]
   },
