@@ -56,7 +56,14 @@
   {
     "name": "Kosmetika",
     "note": "",
-    "items": []
+    "items": [
+      {
+        "name": "Úprava obočí",
+        "price": 50,
+        "note": "až 150,- Kč",
+        "keywords": []
+      }
+    ]
   },
   {
     "name": "Lymfodrenáž",
