@@ -152,6 +152,12 @@
         "price": 110,
         "note": "",
         "keywords": []
+      },
+      {
+        "name": "Aplikace analgetických infuzí",
+        "price": 110,
+        "note": "Na aplikovaná léčiva může být účtován doplatek dle jejich aktuální ceny",
+        "keywords": []
       }
     ]
   }
