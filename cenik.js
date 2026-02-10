@@ -36,7 +36,8 @@ function renderCenik(data) {
 
 // Funkce pro odeslání výšky obsahu do rodičovského okna (iframe)
 function sendHeightToParent() {
-    const height = document.documentElement.scrollHeight;
+    const contentEl = document.getElementById('content');
+    const height = contentEl ? contentEl.scrollHeight : document.body.scrollHeight;
     window.parent.postMessage({ type: 'resize', height: height }, '*');
 }
 
