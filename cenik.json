@@ -98,6 +98,12 @@
         "price": 0,
         "note": "",
         "keywords": []
+      },
+      {
+        "name": "Kopírování lékařských záznamů z dokumentace A4",
+        "price": 7,
+        "note": "",
+        "keywords": []
       }
     ]
   }
