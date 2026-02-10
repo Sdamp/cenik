@@ -56,7 +56,14 @@
   {
     "name": "Lymfodrenáž",
     "note": "",
-    "items": []
+    "items": [
+      {
+        "name": "Přístrojová lymfodrenáž s uvolněním uzlin 50 min",
+        "price": 290,
+        "note": "",
+        "keywords": []
+      }
+    ]
   },
   {
     "name": "Nutriční terapie",
