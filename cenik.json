@@ -92,6 +92,12 @@
         "price": 75,
         "note": "",
         "keywords": []
+      },
+      {
+        "name": "Potvrzení ke studiu",
+        "price": 0,
+        "note": "",
+        "keywords": []
       }
     ]
   }
