@@ -158,7 +158,14 @@
   {
     "name": "Obezitologie",
     "note": "",
-    "items": []
+    "items": [
+      {
+        "name": "Edukace terapie obezity",
+        "price": 460,
+        "note": "",
+        "keywords": []
+      }
+    ]
   },
   {
     "name": "Sportovní Prohlídky",
