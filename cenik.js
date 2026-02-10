@@ -25,8 +25,19 @@ function renderCenik(data) {
     document.querySelectorAll('.category-header').forEach(header => {
         header.addEventListener('click', function() {
             this.parentElement.classList.toggle('collapsed');
+            // Po změně výšky obsahu pošli novou výšku do rodičovského okna
+            setTimeout(sendHeightToParent, 400); // Počkat na dokončení animace
         });
     });
+    
+    // Poslat počáteční výšku
+    sendHeightToParent();
+}
+
+// Funkce pro odeslání výšky obsahu do rodičovského okna (iframe)
+function sendHeightToParent() {
+    const height = document.documentElement.scrollHeight;
+    window.parent.postMessage({ type: 'resize', height: height }, '*');
 }
 
 const renderCategory = (category) => {
@@ -83,6 +94,20 @@ function handleSearch(e) {
             category.classList.remove('hidden');
         }
     });
+    
+    // Po změně obsahu pošli novou výšku do rodičovského okna
+    sendHeightToParent();
 }
 
 loadCenik();
+
+// Naslouchat změnám velikosti obsahu
+const resizeObserver = new ResizeObserver(() => {
+    sendHeightToParent();
+});
+
+// Sledovat změny velikosti těla dokumentu
+resizeObserver.observe(document.body);
+
+// Poslat výšku i při načtení okna
+window.addEventListener('load', sendHeightToParent);
