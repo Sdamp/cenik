@@ -1,73 +1,83 @@
 [
   {
-    "name": "git test",
+    "name": "Základní vyšetření",
     "note": "",
     "items": [
       {
-        "name": "jh",
-        "price": 0,
+        "name": "Vyšetření pro řidičský průkaz",
+        "price": 780,
         "note": "",
-        "keywords": [
-          "zapal plic",
-          "horečka"
-        ]
-      },
-      {
-        "name": "test",
-        "price": 69,
-        "note": "xddd",
-        "keywords": [
-          "cenik",
-          "json",
-          "gigity",
-          "scamik",
-          "přepal"
-        ]
-      }
-    ]
-  },
-  {
-    "name": "m hbjv",
-    "note": "",
-    "items": []
-  },
-  {
-    "name": "test",
-    "note": "lolec",
-    "items": [
-      {
-        "name": "test2",
-        "price": 69,
-        "note": "haha69",
         "keywords": []
       },
       {
-        "name": "lol",
-        "price": 0,
-        "note": "45646",
+        "name": "Vyšetření pro řidičský průkaz (senior)",
+        "price": 570,
+        "note": "",
         "keywords": []
       },
       {
-        "name": "Měření složení těla** + malý protokol",
-        "price": 450,
-        "note": "Určení přesného složení těla se provádí pomocí váhy InBody. Měří se množství kosterních svalů, tělesného tuku, minerálních látek a tělesné vody",
+        "name": "Vyšetření pro vstup do zaměstnání",
+        "price": 900,
+        "note": "",
         "keywords": []
       },
       {
-        "name": "Měření složení těla** + velký protokol",
-        "price": 650,
-        "note": "Určení přesného složení těla se provádí pomocí váhy InBody. Měří se množství kosterních svalů, tělesného tuku, minerálních látek a tělesné vody",
+        "name": "Vyšetření pro zdravotní průkaz",
+        "price": 780,
+        "note": "",
         "keywords": []
-      }
-    ]
-  },
-  {
-    "name": "test edit",
-    "note": "",
-    "items": [
+      },
       {
-        "name": "hjk",
-        "price": 0,
+        "name": "Vyšetření pro zdravotní průkaz (studenti, senioři)",
+        "price": 390,
+        "note": "",
+        "keywords": []
+      },
+      {
+        "name": "Vyšetření pro profesionální průkazy (svářeč...)",
+        "price": 900,
+        "note": "",
+        "keywords": []
+      },
+      {
+        "name": "Vyšetření pro držitele střelných zbraní",
+        "price": 780,
+        "note": "",
+        "keywords": []
+      },
+      {
+        "name": "Vyšetření před lázeňskou péčí",
+        "price": 140,
+        "note": "",
+        "keywords": []
+      },
+      {
+        "name": "Zpráva o zdravotním stavu pro různé účely",
+        "price": 520,
+        "note": "",
+        "keywords": []
+      },
+      {
+        "name": "Lékařská prohlídka před interupcí",
+        "price": 780,
+        "note": "",
+        "keywords": []
+      },
+      {
+        "name": "Hlášení pojistné události – sepsání oznámení úrazu",
+        "price": 520,
+        "note": "",
+        "keywords": []
+      },
+      {
+        "name": "Hlášení pojistné události – sepsání oznámení úrazu + bodové ohodnocení",
+        "price": 780,
+        "note": "",
+        "keywords": []
+      },
+      {
+        "name": "Výpis, opis nebo kopie zdravotní dokumentace",
+        "price": 400,
         "note": "",
         "keywords": []
       }
