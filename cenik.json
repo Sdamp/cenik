@@ -2,7 +2,14 @@
   {
     "name": "Nutriční terapie",
     "note": "",
-    "items": []
+    "items": [
+      {
+        "name": "Měření složení těla** + malý protokol",
+        "price": 450,
+        "note": "",
+        "keywords": []
+      }
+    ]
   },
   {
     "name": "Sportovní Prohlídky",
