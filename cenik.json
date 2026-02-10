@@ -116,6 +116,12 @@
         "price": 100,
         "note": "",
         "keywords": []
+      },
+      {
+        "name": "Masáž nohou po pedikúře",
+        "price": 300,
+        "note": "",
+        "keywords": []
       }
     ]
   },
