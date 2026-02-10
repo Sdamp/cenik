@@ -140,6 +140,12 @@
         "price": 600,
         "note": "",
         "keywords": []
+      },
+      {
+        "name": "Pedikúra",
+        "price": 750,
+        "note": "",
+        "keywords": []
       }
     ]
   },
