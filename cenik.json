@@ -104,6 +104,12 @@
         "price": 400,
         "note": "",
         "keywords": []
+      },
+      {
+        "name": "Lakování",
+        "price": 200,
+        "note": "",
+        "keywords": []
       }
     ]
   },
