@@ -110,6 +110,12 @@
         "price": 200,
         "note": "",
         "keywords": []
+      },
+      {
+        "name": "Odlakování",
+        "price": 100,
+        "note": "",
+        "keywords": []
       }
     ]
   },
