@@ -52,10 +52,11 @@ const renderCategory = (category) => {
     category.items.forEach(item => {
         const keywords = item.keywords ? item.keywords.join(' ').toLowerCase() : '';
         const noteHtml = item.note ? `<div class="item-note">${item.note}</div>` : '';
+        const priceText = item.price === 0 ? 'zdarma' : `${item.price},-Kč`;
         html += `<li class="item" data-item-name="${item.name.toLowerCase()}" data-keywords="${keywords}">
                     <div class="item-header">
                         <span>${item.name}</span>
-                        <span class="price">${item.price},-Kč</span>
+                        <span class="price">${priceText}</span>
                     </div>
                     ${noteHtml}
                 </li>`;
