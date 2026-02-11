@@ -44,8 +44,8 @@ function sendHeightToParent() {
 const renderCategory = (category) => {
     html += `<li class="category" data-category-name="${category.name.toLowerCase()}">
                 <div class="category-header">
-                    <strong>${category.name}</strong>
                     <span class="category-arrow">▼</span>
+                    <strong>${category.name}</strong>
                 </div>
                 <span>${category.note}</span>
             <ul>`;
