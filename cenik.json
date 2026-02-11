@@ -1,329 +1,11 @@
 [
   {
-    "name": "Fyzioterapie",
-    "note": "",
-    "items": [
-      {
-        "name": "Komplexní kineziologické vyšetření",
-        "price": 895,
-        "note": "",
-        "keywords": []
-      },
-      {
-        "name": "Individuální terapie (30 minut)",
-        "price": 510,
-        "note": "",
-        "keywords": []
-      },
-      {
-        "name": "Individuální terapie (45 minut)",
-        "price": 765,
-        "note": "",
-        "keywords": []
-      },
-      {
-        "name": "Individuální terapie 8x",
-        "price": 5540,
-        "note": "",
-        "keywords": []
-      },
-      {
-        "name": "Kineziotaping (1 cm pásky)",
-        "price": 3,
-        "note": "",
-        "keywords": []
-      },
-      {
-        "name": "Nalepení kineziotapu + cena tapu (mimo terapii)",
-        "price": 130,
-        "note": "",
-        "keywords": []
-      },
-      {
-        "name": "EMS uvolnění a posilování",
-        "price": 450,
-        "note": "",
-        "keywords": []
-      },
-      {
-        "name": "Prstová pletysmografie",
-        "price": 1100,
-        "note": "",
-        "keywords": []
-      }
-    ]
-  },
-  {
-    "name": "Kosmetika",
-    "note": "",
-    "items": [
-      {
-        "name": "Úprava obočí",
-        "price": 50,
-        "note": "až 150,- Kč",
-        "keywords": []
-      },
-      {
-        "name": "Barvení obočí",
-        "price": 100,
-        "note": "",
-        "keywords": []
-      },
-      {
-        "name": "Barvení řas",
-        "price": 300,
-        "note": "",
-        "keywords": []
-      },
-      {
-        "name": "Barvení a úprava řasy+obočí",
-        "price": 500,
-        "note": "",
-        "keywords": []
-      },
-      {
-        "name": "Depilace voskem/pinzetou - horní ret a brada",
-        "price": 150,
-        "note": "",
-        "keywords": []
-      },
-      {
-        "name": "Depilace voskem/pinzetou - tváře",
-        "price": 200,
-        "note": "",
-        "keywords": []
-      },
-      {
-        "name": "Kosmetická masáž - obličej",
-        "price": 250,
-        "note": "",
-        "keywords": []
-      },
-      {
-        "name": "Kosmetická masáž - obličej, dekolt a ramena",
-        "price": 400,
-        "note": "",
-        "keywords": []
-      },
-      {
-        "name": "Lakování",
-        "price": 200,
-        "note": "",
-        "keywords": []
-      },
-      {
-        "name": "Odlakování",
-        "price": 100,
-        "note": "",
-        "keywords": []
-      },
-      {
-        "name": "Masáž nohou po pedikúře",
-        "price": 300,
-        "note": "",
-        "keywords": []
-      },
-      {
-        "name": "Základní ošetření pleti",
-        "price": 990,
-        "note": "",
-        "keywords": []
-      },
-      {
-        "name": "Manikura (P-Shine)",
-        "price": 300,
-        "note": "",
-        "keywords": []
-      },
-      {
-        "name": "Manikura (P-Shine) s masáží",
-        "price": 600,
-        "note": "",
-        "keywords": []
-      },
-      {
-        "name": "Pedikúra",
-        "price": 750,
-        "note": "",
-        "keywords": []
-      },
-      {
-        "name": "Pedikúra s masáží",
-        "price": 1050,
-        "note": "",
-        "keywords": []
-      }
-    ]
-  },
-  {
-    "name": "Lymfodrenáž",
-    "note": "",
-    "items": [
-      {
-        "name": "Přístrojová lymfodrenáž s uvolněním uzlin 50 min",
-        "price": 280,
-        "note": "",
-        "keywords": []
-      },
-      {
-        "name": "Přístrojová lymfodrenáž 5x",
-        "price": 1110,
-        "note": "",
-        "keywords": []
-      },
-      {
-        "name": "Přístrojová lymfodrenáž 10x",
-        "price": 2210,
-        "note": "",
-        "keywords": []
-      },
-      {
-        "name": "Manuální lymfodrenáž 60 min",
-        "price": 665,
-        "note": "",
-        "keywords": []
-      },
-      {
-        "name": "Manuální lymfodrenáž 5x",
-        "price": 2770,
-        "note": "",
-        "keywords": []
-      },
-      {
-        "name": "Manuální lymfodrenáž 10x",
-        "price": 5540,
-        "note": "",
-        "keywords": []
-      },
-      {
-        "name": "Manuální + přístrojová lymfodrenáž 105 min",
-        "price": 890,
-        "note": "",
-        "keywords": []
-      }
-    ]
-  },
-  {
-    "name": "Medicinální pedikůra",
-    "note": "",
-    "items": [
-      {
-        "name": "Medicinální pedikérské ošetření",
-        "price": 750,
-        "note": "",
-        "keywords": []
-      }
-    ]
-  },
-  {
-    "name": "Nutriční terapie",
-    "note": "",
-    "items": [
-      {
-        "name": "Měření složení těla + malý protokol",
-        "price": 350,
-        "note": "Určení přesného složení těla se provádí pomocí váhy InBody. Měří se množství kosterních svalů, tělesného tuku, minerálních látek a tělesné vody. ",
-        "keywords": []
-      },
-      {
-        "name": "Měření složení těla + velký protokol",
-        "price": 640,
-        "note": "Určení přesného složení těla se provádí pomocí váhy InBody. Měří se množství kosterních svalů, tělesného tuku, minerálních látek a tělesné vody. ",
-        "keywords": []
-      },
-      {
-        "name": "Konzultace bez InBody (30 minut)",
-        "price": 400,
-        "note": "",
-        "keywords": []
-      },
-      {
-        "name": "Konzultace bez InBody (60 minut)",
-        "price": 650,
-        "note": "",
-        "keywords": []
-      },
-      {
-        "name": "Hodnocení jídelníčku + InBody",
-        "price": 750,
-        "note": "",
-        "keywords": []
-      },
-      {
-        "name": "Případné další konzultace kontrolní (30 minut)",
-        "price": 300,
-        "note": "",
-        "keywords": []
-      },
-      {
-        "name": "Nutriční konzultace + jídelníček na 14 dní",
-        "price": 2500,
-        "note": "",
-        "keywords": []
-      },
-      {
-        "name": "Nutriční konzultace + jídelníček na měsíc",
-        "price": 4500,
-        "note": "",
-        "keywords": []
-      }
-    ]
-  },
-  {
-    "name": "Obezitologie",
-    "note": "",
-    "items": [
-      {
-        "name": "Edukace terapie obezity",
-        "price": 450,
-        "note": "",
-        "keywords": []
-      },
-      {
-        "name": "Edukace aplikace antiobezitik",
-        "price": 250,
-        "note": "",
-        "keywords": []
-      }
-    ]
-  },
-  {
-    "name": "Sportovní Prohlídky",
-    "note": "",
-    "items": [
-      {
-        "name": "Klidové EKG a měření složení těla a síly stisku",
-        "price": 750,
-        "note": "",
-        "keywords": []
-      },
-      {
-        "name": "Klidové EKG, zátěžová ergometrie a měření složení těla a síly stisku",
-        "price": 1250,
-        "note": "",
-        "keywords": []
-      },
-      {
-        "name": "Klidové EKG, zátěžová spiroergometrie a měření složení těla a síly stisku",
-        "price": 1800,
-        "note": "",
-        "keywords": []
-      },
-      {
-        "name": "EMS uvolnění a posilování (30 minut)",
-        "price": 450,
-        "note": "",
-        "keywords": []
-      }
-    ]
-  },
-  {
     "name": "Základní vyšetření",
     "note": "",
     "items": [
       {
         "name": "Vyšetření pro řidičský průkaz",
-        "price": 765,
+        "price": 780,
         "note": "",
         "keywords": []
       },
@@ -475,6 +157,324 @@
         "name": "Aplikace analgetických infuzí",
         "price": 100,
         "note": "Na aplikovaná léčiva může být účtován doplatek dle jejich aktuální ceny",
+        "keywords": []
+      }
+    ]
+  },
+  {
+    "name": "Sportovní Prohlídky",
+    "note": "",
+    "items": [
+      {
+        "name": "Klidové EKG a měření složení těla a síly stisku",
+        "price": 750,
+        "note": "",
+        "keywords": []
+      },
+      {
+        "name": "Klidové EKG, zátěžová ergometrie a měření složení těla a síly stisku",
+        "price": 1250,
+        "note": "",
+        "keywords": []
+      },
+      {
+        "name": "Klidové EKG, zátěžová spiroergometrie a měření složení těla a síly stisku",
+        "price": 1800,
+        "note": "",
+        "keywords": []
+      },
+      {
+        "name": "EMS uvolnění a posilování (30 minut)",
+        "price": 450,
+        "note": "",
+        "keywords": []
+      }
+    ]
+  },
+  {
+    "name": "Nutriční terapie",
+    "note": "",
+    "items": [
+      {
+        "name": "Měření složení těla + malý protokol",
+        "price": 350,
+        "note": "Určení přesného složení těla se provádí pomocí váhy InBody. Měří se množství kosterních svalů, tělesného tuku, minerálních látek a tělesné vody. ",
+        "keywords": []
+      },
+      {
+        "name": "Měření složení těla + velký protokol",
+        "price": 640,
+        "note": "Určení přesného složení těla se provádí pomocí váhy InBody. Měří se množství kosterních svalů, tělesného tuku, minerálních látek a tělesné vody. ",
+        "keywords": []
+      },
+      {
+        "name": "Konzultace bez InBody (30 minut)",
+        "price": 400,
+        "note": "",
+        "keywords": []
+      },
+      {
+        "name": "Konzultace bez InBody (60 minut)",
+        "price": 650,
+        "note": "",
+        "keywords": []
+      },
+      {
+        "name": "Hodnocení jídelníčku + InBody",
+        "price": 750,
+        "note": "",
+        "keywords": []
+      },
+      {
+        "name": "Případné další konzultace kontrolní (30 minut)",
+        "price": 300,
+        "note": "",
+        "keywords": []
+      },
+      {
+        "name": "Nutriční konzultace + jídelníček na 14 dní",
+        "price": 2500,
+        "note": "",
+        "keywords": []
+      },
+      {
+        "name": "Nutriční konzultace + jídelníček na měsíc",
+        "price": 4500,
+        "note": "",
+        "keywords": []
+      }
+    ]
+  },
+  {
+    "name": "Fyzioterapie",
+    "note": "",
+    "items": [
+      {
+        "name": "Komplexní kineziologické vyšetření",
+        "price": 895,
+        "note": "",
+        "keywords": []
+      },
+      {
+        "name": "Individuální terapie (30 minut)",
+        "price": 510,
+        "note": "",
+        "keywords": []
+      },
+      {
+        "name": "Individuální terapie (45 minut)",
+        "price": 765,
+        "note": "",
+        "keywords": []
+      },
+      {
+        "name": "Individuální terapie 8x",
+        "price": 5540,
+        "note": "",
+        "keywords": []
+      },
+      {
+        "name": "Kineziotaping (1 cm pásky)",
+        "price": 3,
+        "note": "",
+        "keywords": []
+      },
+      {
+        "name": "Nalepení kineziotapu + cena tapu (mimo terapii)",
+        "price": 130,
+        "note": "",
+        "keywords": []
+      },
+      {
+        "name": "EMS uvolnění a posilování",
+        "price": 450,
+        "note": "",
+        "keywords": []
+      },
+      {
+        "name": "Prstová pletysmografie",
+        "price": 1100,
+        "note": "",
+        "keywords": []
+      }
+    ]
+  },
+  {
+    "name": "Lymfodrenáž",
+    "note": "",
+    "items": [
+      {
+        "name": "Přístrojová lymfodrenáž s uvolněním uzlin 50 min",
+        "price": 280,
+        "note": "",
+        "keywords": []
+      },
+      {
+        "name": "Přístrojová lymfodrenáž 5x",
+        "price": 1110,
+        "note": "",
+        "keywords": []
+      },
+      {
+        "name": "Přístrojová lymfodrenáž 10x",
+        "price": 2210,
+        "note": "",
+        "keywords": []
+      },
+      {
+        "name": "Manuální lymfodrenáž 60 min",
+        "price": 665,
+        "note": "",
+        "keywords": []
+      },
+      {
+        "name": "Manuální lymfodrenáž 5x",
+        "price": 2770,
+        "note": "",
+        "keywords": []
+      },
+      {
+        "name": "Manuální lymfodrenáž 10x",
+        "price": 5540,
+        "note": "",
+        "keywords": []
+      },
+      {
+        "name": "Manuální + přístrojová lymfodrenáž 105 min",
+        "price": 890,
+        "note": "",
+        "keywords": []
+      }
+    ]
+  },
+  {
+    "name": "Obezitologie",
+    "note": "",
+    "items": [
+      {
+        "name": "Edukace terapie obezity",
+        "price": 450,
+        "note": "",
+        "keywords": []
+      },
+      {
+        "name": "Edukace aplikace antiobezitik",
+        "price": 250,
+        "note": "",
+        "keywords": []
+      }
+    ]
+  },
+  {
+    "name": "Medicinální pedikůra",
+    "note": "",
+    "items": [
+      {
+        "name": "Medicinální pedikérské ošetření",
+        "price": 750,
+        "note": "",
+        "keywords": []
+      }
+    ]
+  },
+  {
+    "name": "Kosmetika",
+    "note": "",
+    "items": [
+      {
+        "name": "Úprava obočí",
+        "price": 50,
+        "note": "až 150,- Kč",
+        "keywords": []
+      },
+      {
+        "name": "Barvení obočí",
+        "price": 100,
+        "note": "",
+        "keywords": []
+      },
+      {
+        "name": "Barvení řas",
+        "price": 300,
+        "note": "",
+        "keywords": []
+      },
+      {
+        "name": "Barvení a úprava řasy+obočí",
+        "price": 500,
+        "note": "",
+        "keywords": []
+      },
+      {
+        "name": "Depilace voskem/pinzetou - horní ret a brada",
+        "price": 150,
+        "note": "",
+        "keywords": []
+      },
+      {
+        "name": "Depilace voskem/pinzetou - tváře",
+        "price": 200,
+        "note": "",
+        "keywords": []
+      },
+      {
+        "name": "Kosmetická masáž - obličej",
+        "price": 250,
+        "note": "",
+        "keywords": []
+      },
+      {
+        "name": "Kosmetická masáž - obličej, dekolt a ramena",
+        "price": 400,
+        "note": "",
+        "keywords": []
+      },
+      {
+        "name": "Lakování",
+        "price": 200,
+        "note": "",
+        "keywords": []
+      },
+      {
+        "name": "Odlakování",
+        "price": 100,
+        "note": "",
+        "keywords": []
+      },
+      {
+        "name": "Masáž nohou po pedikúře",
+        "price": 300,
+        "note": "",
+        "keywords": []
+      },
+      {
+        "name": "Základní ošetření pleti",
+        "price": 990,
+        "note": "",
+        "keywords": []
+      },
+      {
+        "name": "Manikura (P-Shine)",
+        "price": 300,
+        "note": "",
+        "keywords": []
+      },
+      {
+        "name": "Manikura (P-Shine) s masáží",
+        "price": 600,
+        "note": "",
+        "keywords": []
+      },
+      {
+        "name": "Pedikúra",
+        "price": 750,
+        "note": "",
+        "keywords": []
+      },
+      {
+        "name": "Pedikúra s masáží",
+        "price": 1050,
+        "note": "",
         "keywords": []
       }
     ]
