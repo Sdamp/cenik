@@ -58,10 +58,12 @@
         "keywords": []
       },
       {
-        "name": "Lékařská prohlídka před interupcí",
+        "name": "Lékařská prohlídka před interrupcí",
         "price": 765,
         "note": "",
-        "keywords": []
+        "keywords": [
+          "interupce"
+        ]
       },
       {
         "name": "Hlášení pojistné události – sepsání oznámení úrazu",
