@@ -1,387 +1,7 @@
 [
   {
-    "name": "Základní vyšetření",
-    "note": "",
-    "items": [
-      {
-        "name": "Vyšetření pro řidičský průkaz",
-        "price": 765,
-        "note": "",
-        "keywords": []
-      },
-      {
-        "name": "Vyšetření pro řidičský průkaz (senior)",
-        "price": 555,
-        "note": "",
-        "keywords": []
-      },
-      {
-        "name": "Vyšetření pro vstup do zaměstnání",
-        "price": 895,
-        "note": "",
-        "keywords": []
-      },
-      {
-        "name": "Vyšetření pro zdravotní průkaz",
-        "price": 765,
-        "note": "",
-        "keywords": []
-      },
-      {
-        "name": "Vyšetření pro zdravotní průkaz (studenti, senioři)",
-        "price": 385,
-        "note": "",
-        "keywords": []
-      },
-      {
-        "name": "Vyšetření pro profesionální průkazy (svářeč...)",
-        "price": 895,
-        "note": "",
-        "keywords": []
-      },
-      {
-        "name": "Vyšetření pro držitele střelných zbraní",
-        "price": 765,
-        "note": "",
-        "keywords": []
-      },
-      {
-        "name": "Vyšetření před lázeňskou péčí",
-        "price": 130,
-        "note": "",
-        "keywords": []
-      },
-      {
-        "name": "Zpráva o zdravotním stavu pro různé účely",
-        "price": 510,
-        "note": "",
-        "keywords": []
-      },
-      {
-        "name": "Lékařská prohlídka před interrupcí",
-        "price": 765,
-        "note": "",
-        "keywords": [
-          "interupce"
-        ]
-      },
-      {
-        "name": "Hlášení pojistné události – sepsání oznámení úrazu",
-        "price": 510,
-        "note": "",
-        "keywords": []
-      },
-      {
-        "name": "Hlášení pojistné události – sepsání oznámení úrazu + bodové ohodnocení",
-        "price": 765,
-        "note": "",
-        "keywords": []
-      },
-      {
-        "name": "Výpis, opis nebo kopie zdravotní dokumentace",
-        "price": 385,
-        "note": "",
-        "keywords": []
-      },
-      {
-        "name": "Administrativní výkon",
-        "price": 130,
-        "note": "",
-        "keywords": []
-      },
-      {
-        "name": "Vystavení duplikátu zdravotního dokladu",
-        "price": 70,
-        "note": "",
-        "keywords": []
-      },
-      {
-        "name": "Potvrzení ke studiu",
-        "price": 0,
-        "note": "",
-        "keywords": []
-      },
-      {
-        "name": "Kopírování lékařských záznamů z dokumentace A4",
-        "price": 7,
-        "note": "",
-        "keywords": []
-      },
-      {
-        "name": "Aplikace očkovacích látek mimo očkovací kalendář - samoplátce",
-        "price": 255,
-        "note": "",
-        "keywords": []
-      },
-      {
-        "name": "Klidové EKG",
-        "price": 225,
-        "note": "",
-        "keywords": []
-      },
-      {
-        "name": "Vyšetření prsů termokamerou",
-        "price": 555,
-        "note": "",
-        "keywords": []
-      },
-      {
-        "name": "Vratná záloha na set “Vyšetření vzorku stolice na okultní krvácení”",
-        "price": 115,
-        "note": "",
-        "keywords": []
-      },
-      {
-        "name": "Spirometrie",
-        "price": 300,
-        "note": "",
-        "keywords": []
-      },
-      {
-        "name": "Ultrazvuk srdce",
-        "price": 1800,
-        "note": "",
-        "keywords": []
-      },
-      {
-        "name": "Ultrazvuk prsu",
-        "price": 800,
-        "note": "",
-        "keywords": []
-      },
-      {
-        "name": "Doplatek na aplikaci lokálního anestetika",
-        "price": 100,
-        "note": "",
-        "keywords": []
-      },
-      {
-        "name": "Aplikace analgetických infuzí",
-        "price": 100,
-        "note": "Na aplikovaná léčiva může být účtován doplatek dle jejich aktuální ceny",
-        "keywords": []
-      }
-    ]
-  },
-  {
-    "name": "Sportovní Prohlídky",
-    "note": "",
-    "items": [
-      {
-        "name": "Klidové EKG a měření složení těla a síly stisku",
-        "price": 750,
-        "note": "",
-        "keywords": []
-      },
-      {
-        "name": "Klidové EKG, zátěžová ergometrie a měření složení těla a síly stisku",
-        "price": 1250,
-        "note": "",
-        "keywords": []
-      },
-      {
-        "name": "Klidové EKG, zátěžová spiroergometrie a měření složení těla a síly stisku",
-        "price": 1800,
-        "note": "",
-        "keywords": []
-      },
-      {
-        "name": "EMS uvolnění a posilování (30 minut)",
-        "price": 450,
-        "note": "",
-        "keywords": []
-      }
-    ]
-  },
-  {
-    "name": "Nutriční terapie",
-    "note": "",
-    "items": [
-      {
-        "name": "Měření složení těla + malý protokol",
-        "price": 350,
-        "note": "Určení přesného složení těla se provádí pomocí váhy InBody. Měří se množství kosterních svalů, tělesného tuku, minerálních látek a tělesné vody. ",
-        "keywords": []
-      },
-      {
-        "name": "Měření složení těla + velký protokol",
-        "price": 640,
-        "note": "Určení přesného složení těla se provádí pomocí váhy InBody. Měří se množství kosterních svalů, tělesného tuku, minerálních látek a tělesné vody. ",
-        "keywords": []
-      },
-      {
-        "name": "Konzultace bez InBody (30 minut)",
-        "price": 400,
-        "note": "",
-        "keywords": []
-      },
-      {
-        "name": "Konzultace bez InBody (60 minut)",
-        "price": 650,
-        "note": "",
-        "keywords": []
-      },
-      {
-        "name": "Hodnocení jídelníčku + InBody",
-        "price": 750,
-        "note": "",
-        "keywords": []
-      },
-      {
-        "name": "Případné další konzultace kontrolní (30 minut)",
-        "price": 300,
-        "note": "",
-        "keywords": []
-      },
-      {
-        "name": "Nutriční konzultace + jídelníček na 14 dní",
-        "price": 2500,
-        "note": "",
-        "keywords": []
-      },
-      {
-        "name": "Nutriční konzultace + jídelníček na měsíc",
-        "price": 4500,
-        "note": "",
-        "keywords": []
-      }
-    ]
-  },
-  {
-    "name": "Fyzioterapie",
-    "note": "",
-    "items": [
-      {
-        "name": "Komplexní kineziologické vyšetření",
-        "price": 895,
-        "note": "",
-        "keywords": []
-      },
-      {
-        "name": "Individuální terapie (30 minut)",
-        "price": 510,
-        "note": "",
-        "keywords": []
-      },
-      {
-        "name": "Individuální terapie (45 minut)",
-        "price": 765,
-        "note": "",
-        "keywords": []
-      },
-      {
-        "name": "Individuální terapie 8x",
-        "price": 5540,
-        "note": "",
-        "keywords": []
-      },
-      {
-        "name": "Kineziotaping (1 cm pásky)",
-        "price": 3,
-        "note": "",
-        "keywords": []
-      },
-      {
-        "name": "Nalepení kineziotapu + cena tapu (mimo terapii)",
-        "price": 130,
-        "note": "",
-        "keywords": []
-      },
-      {
-        "name": "EMS uvolnění a posilování",
-        "price": 450,
-        "note": "",
-        "keywords": []
-      },
-      {
-        "name": "Prstová pletysmografie",
-        "price": 1100,
-        "note": "",
-        "keywords": []
-      }
-    ]
-  },
-  {
-    "name": "Lymfodrenáž",
-    "note": "",
-    "items": [
-      {
-        "name": "Přístrojová lymfodrenáž s uvolněním uzlin 50 min",
-        "price": 280,
-        "note": "",
-        "keywords": []
-      },
-      {
-        "name": "Přístrojová lymfodrenáž 5x",
-        "price": 1110,
-        "note": "",
-        "keywords": []
-      },
-      {
-        "name": "Přístrojová lymfodrenáž 10x",
-        "price": 2210,
-        "note": "",
-        "keywords": []
-      },
-      {
-        "name": "Manuální lymfodrenáž 60 min",
-        "price": 665,
-        "note": "",
-        "keywords": []
-      },
-      {
-        "name": "Manuální lymfodrenáž 5x",
-        "price": 2770,
-        "note": "",
-        "keywords": []
-      },
-      {
-        "name": "Manuální lymfodrenáž 10x",
-        "price": 5540,
-        "note": "",
-        "keywords": []
-      },
-      {
-        "name": "Manuální + přístrojová lymfodrenáž 105 min",
-        "price": 890,
-        "note": "",
-        "keywords": []
-      }
-    ]
-  },
-  {
-    "name": "Obezitologie",
-    "note": "",
-    "items": [
-      {
-        "name": "Edukace terapie obezity",
-        "price": 450,
-        "note": "",
-        "keywords": []
-      },
-      {
-        "name": "Edukace aplikace antiobezitik",
-        "price": 250,
-        "note": "",
-        "keywords": []
-      }
-    ]
-  },
-  {
-    "name": "Medicinální pedikůra",
-    "note": "",
-    "items": [
-      {
-        "name": "Medicinální pedikérské ošetření",
-        "price": 750,
-        "note": "",
-        "keywords": []
-      }
-    ]
-  },
-  {
     "name": "Kosmetika",
-    "note": "Ceny jsou orientační a indiviuálně se mohou lišit v závislosti na použitých kosmetických přípravcích a nástrojích",
+    "note": "Ceny jsou orientační a indiviuálně se mohou lišit v závislosti na použitých kosmetických přípravcích a nástrojích.",
     "items": [
       {
         "name": "Úprava obočí",
@@ -393,7 +13,11 @@
         "name": "Barvení obočí",
         "price": 100,
         "note": "",
-        "keywords": []
+        "keywords": [
+          "barva",
+          "oboci. obočí",
+          "barvení"
+        ]
       },
       {
         "name": "Barvení řas",
@@ -477,6 +101,387 @@
         "name": "Pedikúra s masáží",
         "price": 1050,
         "note": "",
+        "keywords": []
+      }
+    ]
+  },
+  {
+    "name": "Medicinální pedikůra",
+    "note": "",
+    "items": [
+      {
+        "name": "Medicinální pedikérské ošetření",
+        "price": 750,
+        "note": "",
+        "keywords": []
+      }
+    ]
+  },
+  {
+    "name": "Obezitologie",
+    "note": "",
+    "items": [
+      {
+        "name": "Edukace terapie obezity",
+        "price": 460,
+        "note": "",
+        "keywords": []
+      },
+      {
+        "name": "Edukace aplikace antiobezitik",
+        "price": 260,
+        "note": "",
+        "keywords": []
+      }
+    ]
+  },
+  {
+    "name": "Lymfodrenáž",
+    "note": "",
+    "items": [
+      {
+        "name": "Přístrojová lymfodrenáž s uvolněním uzlin 50 min",
+        "price": 290,
+        "note": "",
+        "keywords": []
+      },
+      {
+        "name": "Přístrojová lymfodrenáž 5x",
+        "price": 1150,
+        "note": "",
+        "keywords": []
+      },
+      {
+        "name": "Přístrojová lymfodrenáž 10x",
+        "price": 2210,
+        "note": "",
+        "keywords": []
+      },
+      {
+        "name": "Manuální lymfodrenáž 60 min",
+        "price": 680,
+        "note": "",
+        "keywords": []
+      },
+      {
+        "name": "Manuální lymfodrenáž 5x",
+        "price": 2830,
+        "note": "",
+        "keywords": []
+      },
+      {
+        "name": "Manuální lymfodrenáž 10x",
+        "price": 5600,
+        "note": "",
+        "keywords": []
+      },
+      {
+        "name": "Manuální + přístrojová lymfodrenáž 105 min",
+        "price": 910,
+        "note": "",
+        "keywords": []
+      }
+    ]
+  },
+  {
+    "name": "Fyzioterapie",
+    "note": "",
+    "items": [
+      {
+        "name": "Komplexní kineziologické vyšetření",
+        "price": 910,
+        "note": "",
+        "keywords": []
+      },
+      {
+        "name": "Individuální terapie (30 minut)",
+        "price": 520,
+        "note": "",
+        "keywords": []
+      },
+      {
+        "name": "Individuální terapie (45 minut)",
+        "price": 800,
+        "note": "",
+        "keywords": []
+      },
+      {
+        "name": "Individuální terapie 8x",
+        "price": 5650,
+        "note": "",
+        "keywords": []
+      },
+      {
+        "name": "Kineziotaping (1 cm pásky)",
+        "price": 3,
+        "note": "",
+        "keywords": []
+      },
+      {
+        "name": "Nalepení kineziotapu + cena tapu (mimo terapii)",
+        "price": 140,
+        "note": "",
+        "keywords": []
+      },
+      {
+        "name": "EMS uvolnění a posilování",
+        "price": 460,
+        "note": "",
+        "keywords": []
+      },
+      {
+        "name": "Prstová pletysmografie",
+        "price": 1120,
+        "note": "",
+        "keywords": []
+      }
+    ]
+  },
+  {
+    "name": "Nutriční terapie",
+    "note": "",
+    "items": [
+      {
+        "name": "Měření složení těla + malý protokol",
+        "price": 450,
+        "note": "Určení přesného složení těla se provádí pomocí váhy InBody. Měří se množství kosterních svalů, tělesného tuku, minerálních látek a tělesné vody. ",
+        "keywords": []
+      },
+      {
+        "name": "Měření složení těla + velký protokol",
+        "price": 650,
+        "note": "Určení přesného složení těla se provádí pomocí váhy InBody. Měří se množství kosterních svalů, tělesného tuku, minerálních látek a tělesné vody. ",
+        "keywords": []
+      },
+      {
+        "name": "Konzultace bez InBody (30 minut)",
+        "price": 410,
+        "note": "",
+        "keywords": []
+      },
+      {
+        "name": "Konzultace bez InBody (60 minut)",
+        "price": 660,
+        "note": "",
+        "keywords": []
+      },
+      {
+        "name": "Hodnocení jídelníčku + InBody",
+        "price": 770,
+        "note": "",
+        "keywords": []
+      },
+      {
+        "name": "Případné další konzultace kontrolní (30 minut)",
+        "price": 310,
+        "note": "",
+        "keywords": []
+      },
+      {
+        "name": "Nutriční konzultace + jídelníček na 14 dní",
+        "price": 2550,
+        "note": "",
+        "keywords": []
+      },
+      {
+        "name": "Nutriční konzultace + jídelníček na měsíc",
+        "price": 4600,
+        "note": "",
+        "keywords": []
+      }
+    ]
+  },
+  {
+    "name": "Sportovní Prohlídky",
+    "note": "",
+    "items": [
+      {
+        "name": "Klidové EKG a měření složení těla a síly stisku",
+        "price": 770,
+        "note": "",
+        "keywords": []
+      },
+      {
+        "name": "Klidové EKG, zátěžová ergometrie a měření složení těla a síly stisku",
+        "price": 1280,
+        "note": "",
+        "keywords": []
+      },
+      {
+        "name": "Klidové EKG, zátěžová spiroergometrie a měření složení těla a síly stisku",
+        "price": 1840,
+        "note": "",
+        "keywords": []
+      },
+      {
+        "name": "EMS uvolnění a posilování (30 minut)",
+        "price": 460,
+        "note": "",
+        "keywords": []
+      }
+    ]
+  },
+  {
+    "name": "Základní vyšetření",
+    "note": "",
+    "items": [
+      {
+        "name": "Vyšetření pro řidičský průkaz",
+        "price": 780,
+        "note": "",
+        "keywords": []
+      },
+      {
+        "name": "Vyšetření pro řidičský průkaz (senior)",
+        "price": 570,
+        "note": "",
+        "keywords": []
+      },
+      {
+        "name": "Vyšetření pro vstup do zaměstnání",
+        "price": 900,
+        "note": "",
+        "keywords": []
+      },
+      {
+        "name": "Vyšetření pro zdravotní průkaz",
+        "price": 780,
+        "note": "",
+        "keywords": []
+      },
+      {
+        "name": "Vyšetření pro zdravotní průkaz (studenti, senioři)",
+        "price": 390,
+        "note": "",
+        "keywords": []
+      },
+      {
+        "name": "Vyšetření pro profesionální průkazy (svářeč...)",
+        "price": 900,
+        "note": "",
+        "keywords": []
+      },
+      {
+        "name": "Vyšetření pro držitele střelných zbraní",
+        "price": 780,
+        "note": "",
+        "keywords": []
+      },
+      {
+        "name": "Vyšetření před lázeňskou péčí",
+        "price": 140,
+        "note": "",
+        "keywords": []
+      },
+      {
+        "name": "Zpráva o zdravotním stavu pro různé účely",
+        "price": 520,
+        "note": "",
+        "keywords": []
+      },
+      {
+        "name": "Lékařská prohlídka před interrupcí",
+        "price": 780,
+        "note": "",
+        "keywords": [
+          "interupce",
+          "interubce"
+        ]
+      },
+      {
+        "name": "Hlášení pojistné události – sepsání oznámení úrazu",
+        "price": 520,
+        "note": "",
+        "keywords": []
+      },
+      {
+        "name": "Hlášení pojistné události – sepsání oznámení úrazu + bodové ohodnocení",
+        "price": 780,
+        "note": "",
+        "keywords": []
+      },
+      {
+        "name": "Výpis, opis nebo kopie zdravotní dokumentace",
+        "price": 400,
+        "note": "",
+        "keywords": []
+      },
+      {
+        "name": "Administrativní výkon",
+        "price": 140,
+        "note": "",
+        "keywords": []
+      },
+      {
+        "name": "Vystavení duplikátu zdravotního dokladu",
+        "price": 75,
+        "note": "",
+        "keywords": []
+      },
+      {
+        "name": "Potvrzení ke studiu",
+        "price": 0,
+        "note": "",
+        "keywords": []
+      },
+      {
+        "name": "Kopírování lékařských záznamů z dokumentace A4",
+        "price": 7,
+        "note": "",
+        "keywords": []
+      },
+      {
+        "name": "Aplikace očkovacích látek mimo očkovací kalendář - samoplátce",
+        "price": 260,
+        "note": "",
+        "keywords": []
+      },
+      {
+        "name": "Klidové EKG",
+        "price": 230,
+        "note": "",
+        "keywords": []
+      },
+      {
+        "name": "Vyšetření prsů termokamerou",
+        "price": 570,
+        "note": "",
+        "keywords": []
+      },
+      {
+        "name": "Vratná záloha na set “Vyšetření vzorku stolice na okultní krvácení”",
+        "price": 120,
+        "note": "",
+        "keywords": []
+      },
+      {
+        "name": "Spirometrie",
+        "price": 310,
+        "note": "",
+        "keywords": []
+      },
+      {
+        "name": "Ultrazvuk srdce",
+        "price": 1850,
+        "note": "",
+        "keywords": []
+      },
+      {
+        "name": "Ultrazvuk prsu",
+        "price": 820,
+        "note": "",
+        "keywords": []
+      },
+      {
+        "name": "Doplatek na aplikaci lokálního anestetika",
+        "price": 110,
+        "note": "",
+        "keywords": []
+      },
+      {
+        "name": "Aplikace analgetických infuzí",
+        "price": 110,
+        "note": "Na aplikovaná léčiva může být účtován doplatek dle jejich aktuální ceny",
         "keywords": []
       }
     ]
