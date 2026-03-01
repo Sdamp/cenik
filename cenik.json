@@ -118,24 +118,6 @@
     ]
   },
   {
-    "name": "Obezitologie",
-    "note": "",
-    "items": [
-      {
-        "name": "Edukace terapie obezity",
-        "price": 460,
-        "note": "",
-        "keywords": []
-      },
-      {
-        "name": "Edukace aplikace antiobezitik",
-        "price": 260,
-        "note": "",
-        "keywords": []
-      }
-    ]
-  },
-  {
     "name": "Základní vyšetření",
     "note": "",
     "items": [
@@ -296,6 +278,24 @@
         "name": "Aplikace analgetických infuzí",
         "price": 110,
         "note": "Na aplikovaná léčiva může být účtován doplatek dle jejich aktuální ceny",
+        "keywords": []
+      }
+    ]
+  },
+  {
+    "name": "Obezitologie",
+    "note": "",
+    "items": [
+      {
+        "name": "Edukace terapie obezity",
+        "price": 460,
+        "note": "",
+        "keywords": []
+      },
+      {
+        "name": "Edukace aplikace antiobezitik",
+        "price": 260,
+        "note": "",
         "keywords": []
       }
     ]
