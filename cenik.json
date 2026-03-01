@@ -184,60 +184,6 @@
     ]
   },
   {
-    "name": "Fyzioterapie",
-    "note": "",
-    "items": [
-      {
-        "name": "Komplexní kineziologické vyšetření",
-        "price": 910,
-        "note": "",
-        "keywords": []
-      },
-      {
-        "name": "Individuální terapie (30 minut)",
-        "price": 520,
-        "note": "",
-        "keywords": []
-      },
-      {
-        "name": "Individuální terapie (45 minut)",
-        "price": 800,
-        "note": "",
-        "keywords": []
-      },
-      {
-        "name": "Individuální terapie 8x",
-        "price": 5650,
-        "note": "",
-        "keywords": []
-      },
-      {
-        "name": "Kineziotaping (1 cm pásky)",
-        "price": 3,
-        "note": "",
-        "keywords": []
-      },
-      {
-        "name": "Nalepení kineziotapu + cena tapu (mimo terapii)",
-        "price": 140,
-        "note": "",
-        "keywords": []
-      },
-      {
-        "name": "EMS uvolnění a posilování",
-        "price": 460,
-        "note": "",
-        "keywords": []
-      },
-      {
-        "name": "Prstová pletysmografie",
-        "price": 1120,
-        "note": "",
-        "keywords": []
-      }
-    ]
-  },
-  {
     "name": "Základní vyšetření",
     "note": "",
     "items": [
@@ -398,6 +344,60 @@
         "name": "Aplikace analgetických infuzí",
         "price": 110,
         "note": "Na aplikovaná léčiva může být účtován doplatek dle jejich aktuální ceny",
+        "keywords": []
+      }
+    ]
+  },
+  {
+    "name": "Fyzioterapie",
+    "note": "",
+    "items": [
+      {
+        "name": "Komplexní kineziologické vyšetření",
+        "price": 910,
+        "note": "",
+        "keywords": []
+      },
+      {
+        "name": "Individuální terapie (30 minut)",
+        "price": 520,
+        "note": "",
+        "keywords": []
+      },
+      {
+        "name": "Individuální terapie (45 minut)",
+        "price": 800,
+        "note": "",
+        "keywords": []
+      },
+      {
+        "name": "Individuální terapie 8x",
+        "price": 5650,
+        "note": "",
+        "keywords": []
+      },
+      {
+        "name": "Kineziotaping (1 cm pásky)",
+        "price": 3,
+        "note": "",
+        "keywords": []
+      },
+      {
+        "name": "Nalepení kineziotapu + cena tapu (mimo terapii)",
+        "price": 140,
+        "note": "",
+        "keywords": []
+      },
+      {
+        "name": "EMS uvolnění a posilování",
+        "price": 460,
+        "note": "",
+        "keywords": []
+      },
+      {
+        "name": "Prstová pletysmografie",
+        "price": 1120,
+        "note": "",
         "keywords": []
       }
     ]
