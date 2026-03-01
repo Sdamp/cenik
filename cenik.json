@@ -136,54 +136,6 @@
     ]
   },
   {
-    "name": "Lymfodrenáž",
-    "note": "",
-    "items": [
-      {
-        "name": "Přístrojová lymfodrenáž s uvolněním uzlin 50 min",
-        "price": 290,
-        "note": "",
-        "keywords": []
-      },
-      {
-        "name": "Přístrojová lymfodrenáž 5x",
-        "price": 1150,
-        "note": "",
-        "keywords": []
-      },
-      {
-        "name": "Přístrojová lymfodrenáž 10x",
-        "price": 2210,
-        "note": "",
-        "keywords": []
-      },
-      {
-        "name": "Manuální lymfodrenáž 60 min",
-        "price": 680,
-        "note": "",
-        "keywords": []
-      },
-      {
-        "name": "Manuální lymfodrenáž 5x",
-        "price": 2830,
-        "note": "",
-        "keywords": []
-      },
-      {
-        "name": "Manuální lymfodrenáž 10x",
-        "price": 5600,
-        "note": "",
-        "keywords": []
-      },
-      {
-        "name": "Manuální + přístrojová lymfodrenáž 105 min",
-        "price": 910,
-        "note": "",
-        "keywords": []
-      }
-    ]
-  },
-  {
     "name": "Základní vyšetření",
     "note": "",
     "items": [
@@ -344,6 +296,54 @@
         "name": "Aplikace analgetických infuzí",
         "price": 110,
         "note": "Na aplikovaná léčiva může být účtován doplatek dle jejich aktuální ceny",
+        "keywords": []
+      }
+    ]
+  },
+  {
+    "name": "Lymfodrenáž",
+    "note": "",
+    "items": [
+      {
+        "name": "Přístrojová lymfodrenáž s uvolněním uzlin 50 min",
+        "price": 290,
+        "note": "",
+        "keywords": []
+      },
+      {
+        "name": "Přístrojová lymfodrenáž 5x",
+        "price": 1150,
+        "note": "",
+        "keywords": []
+      },
+      {
+        "name": "Přístrojová lymfodrenáž 10x",
+        "price": 2210,
+        "note": "",
+        "keywords": []
+      },
+      {
+        "name": "Manuální lymfodrenáž 60 min",
+        "price": 680,
+        "note": "",
+        "keywords": []
+      },
+      {
+        "name": "Manuální lymfodrenáž 5x",
+        "price": 2830,
+        "note": "",
+        "keywords": []
+      },
+      {
+        "name": "Manuální lymfodrenáž 10x",
+        "price": 5600,
+        "note": "",
+        "keywords": []
+      },
+      {
+        "name": "Manuální + přístrojová lymfodrenáž 105 min",
+        "price": 910,
+        "note": "",
         "keywords": []
       }
     ]
