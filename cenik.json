@@ -1,111 +1,5 @@
 [
   {
-    "name": "Kosmetika",
-    "note": "Ceny jsou orientační a indiviuálně se mohou lišit v závislosti na použitých kosmetických přípravcích a nástrojích.",
-    "items": [
-      {
-        "name": "Úprava obočí",
-        "price": 150,
-        "note": "",
-        "keywords": []
-      },
-      {
-        "name": "Barvení obočí",
-        "price": 100,
-        "note": "",
-        "keywords": [
-          "barva",
-          "oboci. obočí",
-          "barvení"
-        ]
-      },
-      {
-        "name": "Barvení řas",
-        "price": 300,
-        "note": "",
-        "keywords": []
-      },
-      {
-        "name": "Barvení a úprava řasy+obočí",
-        "price": 500,
-        "note": "",
-        "keywords": []
-      },
-      {
-        "name": "Depilace voskem/pinzetou - horní ret a brada",
-        "price": 150,
-        "note": "",
-        "keywords": []
-      },
-      {
-        "name": "Depilace voskem/pinzetou - tváře",
-        "price": 200,
-        "note": "",
-        "keywords": []
-      },
-      {
-        "name": "Kosmetická masáž - obličej",
-        "price": 250,
-        "note": "",
-        "keywords": []
-      },
-      {
-        "name": "Kosmetická masáž - obličej, dekolt a ramena",
-        "price": 400,
-        "note": "",
-        "keywords": []
-      },
-      {
-        "name": "Lakování",
-        "price": 200,
-        "note": "",
-        "keywords": []
-      },
-      {
-        "name": "Odlakování",
-        "price": 100,
-        "note": "",
-        "keywords": []
-      },
-      {
-        "name": "Masáž nohou po pedikúře",
-        "price": 300,
-        "note": "",
-        "keywords": []
-      },
-      {
-        "name": "Základní ošetření pleti",
-        "price": 990,
-        "note": "",
-        "keywords": []
-      },
-      {
-        "name": "Manikura (P-Shine)",
-        "price": 300,
-        "note": "",
-        "keywords": []
-      },
-      {
-        "name": "Manikura (P-Shine) s masáží",
-        "price": 600,
-        "note": "",
-        "keywords": []
-      },
-      {
-        "name": "Pedikúra",
-        "price": 750,
-        "note": "",
-        "keywords": []
-      },
-      {
-        "name": "Pedikúra s masáží",
-        "price": 1050,
-        "note": "",
-        "keywords": []
-      }
-    ]
-  },
-  {
     "name": "Základní vyšetření",
     "note": "",
     "items": [
@@ -266,6 +160,112 @@
         "name": "Aplikace analgetických infuzí",
         "price": 110,
         "note": "Na aplikovaná léčiva může být účtován doplatek dle jejich aktuální ceny",
+        "keywords": []
+      }
+    ]
+  },
+  {
+    "name": "Kosmetika",
+    "note": "Ceny jsou orientační a indiviuálně se mohou lišit v závislosti na použitých kosmetických přípravcích a nástrojích.",
+    "items": [
+      {
+        "name": "Úprava obočí",
+        "price": 150,
+        "note": "",
+        "keywords": []
+      },
+      {
+        "name": "Barvení obočí",
+        "price": 100,
+        "note": "",
+        "keywords": [
+          "barva",
+          "oboci. obočí",
+          "barvení"
+        ]
+      },
+      {
+        "name": "Barvení řas",
+        "price": 300,
+        "note": "",
+        "keywords": []
+      },
+      {
+        "name": "Barvení a úprava řasy+obočí",
+        "price": 500,
+        "note": "",
+        "keywords": []
+      },
+      {
+        "name": "Depilace voskem/pinzetou - horní ret a brada",
+        "price": 150,
+        "note": "",
+        "keywords": []
+      },
+      {
+        "name": "Depilace voskem/pinzetou - tváře",
+        "price": 200,
+        "note": "",
+        "keywords": []
+      },
+      {
+        "name": "Kosmetická masáž - obličej",
+        "price": 250,
+        "note": "",
+        "keywords": []
+      },
+      {
+        "name": "Kosmetická masáž - obličej, dekolt a ramena",
+        "price": 400,
+        "note": "",
+        "keywords": []
+      },
+      {
+        "name": "Lakování",
+        "price": 200,
+        "note": "",
+        "keywords": []
+      },
+      {
+        "name": "Odlakování",
+        "price": 100,
+        "note": "",
+        "keywords": []
+      },
+      {
+        "name": "Masáž nohou po pedikúře",
+        "price": 300,
+        "note": "",
+        "keywords": []
+      },
+      {
+        "name": "Základní ošetření pleti",
+        "price": 990,
+        "note": "",
+        "keywords": []
+      },
+      {
+        "name": "Manikura (P-Shine)",
+        "price": 300,
+        "note": "",
+        "keywords": []
+      },
+      {
+        "name": "Manikura (P-Shine) s masáží",
+        "price": 600,
+        "note": "",
+        "keywords": []
+      },
+      {
+        "name": "Pedikúra",
+        "price": 750,
+        "note": "",
+        "keywords": []
+      },
+      {
+        "name": "Pedikúra s masáží",
+        "price": 1050,
+        "note": "",
         "keywords": []
       }
     ]
