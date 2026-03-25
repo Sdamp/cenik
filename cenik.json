@@ -403,6 +403,36 @@
     ]
   },
   {
+    "name": "Sportovní Prohlídky",
+    "note": "",
+    "items": [
+      {
+        "name": "Klidové EKG a měření složení těla a síly stisku",
+        "price": 770,
+        "note": "",
+        "keywords": []
+      },
+      {
+        "name": "Klidové EKG, zátěžová ergometrie a měření složení těla a síly stisku",
+        "price": 1280,
+        "note": "",
+        "keywords": []
+      },
+      {
+        "name": "Klidové EKG, zátěžová spiroergometrie a měření složení těla a síly stisku",
+        "price": 1840,
+        "note": "",
+        "keywords": []
+      },
+      {
+        "name": "EMS uvolnění a posilování (30 minut)",
+        "price": 460,
+        "note": "",
+        "keywords": []
+      }
+    ]
+  },
+  {
     "name": "Lymfodrenáž",
     "note": "",
     "items": [
@@ -445,36 +475,6 @@
       {
         "name": "Manuální + přístrojová lymfodrenáž 105 min",
         "price": 910,
-        "note": "",
-        "keywords": []
-      }
-    ]
-  },
-  {
-    "name": "Sportovní Prohlídky",
-    "note": "",
-    "items": [
-      {
-        "name": "Klidové EKG a měření složení těla a síly stisku",
-        "price": 770,
-        "note": "",
-        "keywords": []
-      },
-      {
-        "name": "Klidové EKG, zátěžová ergometrie a měření složení těla a síly stisku",
-        "price": 1280,
-        "note": "",
-        "keywords": []
-      },
-      {
-        "name": "Klidové EKG, zátěžová spiroergometrie a měření složení těla a síly stisku",
-        "price": 1840,
-        "note": "",
-        "keywords": []
-      },
-      {
-        "name": "EMS uvolnění a posilování (30 minut)",
-        "price": 460,
         "note": "",
         "keywords": []
       }
