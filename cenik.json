@@ -295,24 +295,6 @@
     ]
   },
   {
-    "name": "Obezitologie",
-    "note": "",
-    "items": [
-      {
-        "name": "Edukace terapie obezity",
-        "price": 460,
-        "note": "",
-        "keywords": []
-      },
-      {
-        "name": "Edukace aplikace antiobezitik",
-        "price": 260,
-        "note": "",
-        "keywords": []
-      }
-    ]
-  },
-  {
     "name": "Fyzioterapie",
     "note": "",
     "items": [
@@ -361,6 +343,24 @@
       {
         "name": "Prstová pletysmografie",
         "price": 1120,
+        "note": "",
+        "keywords": []
+      }
+    ]
+  },
+  {
+    "name": "Obezitologie",
+    "note": "",
+    "items": [
+      {
+        "name": "Edukace terapie obezity",
+        "price": 460,
+        "note": "",
+        "keywords": []
+      },
+      {
+        "name": "Edukace aplikace antiobezitik",
+        "price": 260,
         "note": "",
         "keywords": []
       }
