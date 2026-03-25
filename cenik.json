@@ -165,6 +165,60 @@
     ]
   },
   {
+    "name": "Nutriční terapie",
+    "note": "",
+    "items": [
+      {
+        "name": "Měření složení těla + malý protokol",
+        "price": 450,
+        "note": "Určení přesného složení těla se provádí pomocí váhy InBody. Měří se množství kosterních svalů, tělesného tuku, minerálních látek a tělesné vody. ",
+        "keywords": []
+      },
+      {
+        "name": "Měření složení těla + velký protokol",
+        "price": 650,
+        "note": "Určení přesného složení těla se provádí pomocí váhy InBody. Měří se množství kosterních svalů, tělesného tuku, minerálních látek a tělesné vody. ",
+        "keywords": []
+      },
+      {
+        "name": "Konzultace bez InBody (30 minut)",
+        "price": 410,
+        "note": "",
+        "keywords": []
+      },
+      {
+        "name": "Konzultace bez InBody (60 minut)",
+        "price": 660,
+        "note": "",
+        "keywords": []
+      },
+      {
+        "name": "Hodnocení jídelníčku + InBody",
+        "price": 770,
+        "note": "",
+        "keywords": []
+      },
+      {
+        "name": "Případné další konzultace kontrolní (30 minut)",
+        "price": 310,
+        "note": "",
+        "keywords": []
+      },
+      {
+        "name": "Nutriční konzultace + jídelníček na 14 dní",
+        "price": 2550,
+        "note": "",
+        "keywords": []
+      },
+      {
+        "name": "Nutriční konzultace + jídelníček na měsíc",
+        "price": 4600,
+        "note": "",
+        "keywords": []
+      }
+    ]
+  },
+  {
     "name": "Fyzioterapie",
     "note": "",
     "items": [
@@ -319,60 +373,6 @@
       {
         "name": "Pedikúra s masáží",
         "price": 1050,
-        "note": "",
-        "keywords": []
-      }
-    ]
-  },
-  {
-    "name": "Nutriční terapie",
-    "note": "",
-    "items": [
-      {
-        "name": "Měření složení těla + malý protokol",
-        "price": 450,
-        "note": "Určení přesného složení těla se provádí pomocí váhy InBody. Měří se množství kosterních svalů, tělesného tuku, minerálních látek a tělesné vody. ",
-        "keywords": []
-      },
-      {
-        "name": "Měření složení těla + velký protokol",
-        "price": 650,
-        "note": "Určení přesného složení těla se provádí pomocí váhy InBody. Měří se množství kosterních svalů, tělesného tuku, minerálních látek a tělesné vody. ",
-        "keywords": []
-      },
-      {
-        "name": "Konzultace bez InBody (30 minut)",
-        "price": 410,
-        "note": "",
-        "keywords": []
-      },
-      {
-        "name": "Konzultace bez InBody (60 minut)",
-        "price": 660,
-        "note": "",
-        "keywords": []
-      },
-      {
-        "name": "Hodnocení jídelníčku + InBody",
-        "price": 770,
-        "note": "",
-        "keywords": []
-      },
-      {
-        "name": "Případné další konzultace kontrolní (30 minut)",
-        "price": 310,
-        "note": "",
-        "keywords": []
-      },
-      {
-        "name": "Nutriční konzultace + jídelníček na 14 dní",
-        "price": 2550,
-        "note": "",
-        "keywords": []
-      },
-      {
-        "name": "Nutriční konzultace + jídelníček na měsíc",
-        "price": 4600,
         "note": "",
         "keywords": []
       }
