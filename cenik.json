@@ -271,30 +271,6 @@
     ]
   },
   {
-    "name": "Medicinální pedikůra",
-    "note": "Ceny jsou orientační a indiviuálně se mohou lišit v závislosti na použitých kosmetických přípravcích a nástrojích.",
-    "items": [
-      {
-        "name": "Medicinální pedikérské ošetření",
-        "price": 750,
-        "note": "",
-        "keywords": []
-      },
-      {
-        "name": "Ošetření zarůstajících nehtů",
-        "price": 100,
-        "note": "Cena je orientační",
-        "keywords": []
-      },
-      {
-        "name": "Dodatečná úprava nehtů",
-        "price": 50,
-        "note": "Cena je orientační",
-        "keywords": []
-      }
-    ]
-  },
-  {
     "name": "Fyzioterapie",
     "note": "",
     "items": [
@@ -344,6 +320,30 @@
         "name": "Prstová pletysmografie",
         "price": 1120,
         "note": "",
+        "keywords": []
+      }
+    ]
+  },
+  {
+    "name": "Medicinální pedikůra",
+    "note": "Ceny jsou orientační a indiviuálně se mohou lišit v závislosti na použitých kosmetických přípravcích a nástrojích.",
+    "items": [
+      {
+        "name": "Medicinální pedikérské ošetření",
+        "price": 750,
+        "note": "",
+        "keywords": []
+      },
+      {
+        "name": "Ošetření zarůstajících nehtů",
+        "price": 100,
+        "note": "Cena je orientační",
+        "keywords": []
+      },
+      {
+        "name": "Dodatečná úprava nehtů",
+        "price": 50,
+        "note": "Cena je orientační",
         "keywords": []
       }
     ]
