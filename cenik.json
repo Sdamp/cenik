@@ -349,24 +349,6 @@
     ]
   },
   {
-    "name": "Obezitologie",
-    "note": "",
-    "items": [
-      {
-        "name": "Edukace terapie obezity",
-        "price": 460,
-        "note": "",
-        "keywords": []
-      },
-      {
-        "name": "Edukace aplikace antiobezitik",
-        "price": 260,
-        "note": "",
-        "keywords": []
-      }
-    ]
-  },
-  {
     "name": "Lymfodrenáž",
     "note": "",
     "items": [
@@ -409,6 +391,24 @@
       {
         "name": "Manuální + přístrojová lymfodrenáž 105 min",
         "price": 910,
+        "note": "",
+        "keywords": []
+      }
+    ]
+  },
+  {
+    "name": "Obezitologie",
+    "note": "",
+    "items": [
+      {
+        "name": "Edukace terapie obezity",
+        "price": 460,
+        "note": "",
+        "keywords": []
+      },
+      {
+        "name": "Edukace aplikace antiobezitik",
+        "price": 260,
         "note": "",
         "keywords": []
       }
