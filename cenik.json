@@ -285,6 +285,12 @@
         "price": 100,
         "note": "Cena je orientační",
         "keywords": []
+      },
+      {
+        "name": "Dodatečná úprava nehtů",
+        "price": 50,
+        "note": "Cena je orientační",
+        "keywords": []
       }
     ]
   },
