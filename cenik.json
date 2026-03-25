@@ -451,24 +451,6 @@
     ]
   },
   {
-    "name": "Obezitologie",
-    "note": "",
-    "items": [
-      {
-        "name": "Edukace terapie obezity",
-        "price": 460,
-        "note": "",
-        "keywords": []
-      },
-      {
-        "name": "Edukace aplikace antiobezitik",
-        "price": 260,
-        "note": "",
-        "keywords": []
-      }
-    ]
-  },
-  {
     "name": "Sportovní Prohlídky",
     "note": "",
     "items": [
@@ -493,6 +475,24 @@
       {
         "name": "EMS uvolnění a posilování (30 minut)",
         "price": 460,
+        "note": "",
+        "keywords": []
+      }
+    ]
+  },
+  {
+    "name": "Obezitologie",
+    "note": "",
+    "items": [
+      {
+        "name": "Edukace terapie obezity",
+        "price": 460,
+        "note": "",
+        "keywords": []
+      },
+      {
+        "name": "Edukace aplikace antiobezitik",
+        "price": 260,
         "note": "",
         "keywords": []
       }
