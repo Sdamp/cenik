@@ -169,39 +169,39 @@
     "note": "",
     "items": [
       {
-        "name": "Měření složení těla + malý protokol",
-        "price": 450,
-        "note": "Určení přesného složení těla se provádí pomocí váhy InBody. Měří se množství kosterních svalů, tělesného tuku, minerálních látek a tělesné vody. ",
+        "name": "InBody měření složení těla bez konzultace",
+        "price": 250,
+        "note": "Měří se množství kosterních svalů, tělesného tuku, minerálních látek a tělesné vody. Součástí služby je pouze zvážení a předání protokolu.",
         "keywords": []
       },
       {
-        "name": "Měření složení těla + velký protokol",
-        "price": 650,
-        "note": "Určení přesného složení těla se provádí pomocí váhy InBody. Měří se množství kosterních svalů, tělesného tuku, minerálních látek a tělesné vody. ",
+        "name": "InBody měření složení těla s interpretací výsledků (30 minut)",
+        "price": 500,
+        "note": "Měří se množství kosterních svalů, tělesného tuku, minerálních látek a tělesné vody. ",
         "keywords": []
       },
       {
-        "name": "Konzultace bez InBody (30 minut)",
-        "price": 410,
+        "name": "5 x InBody měření složení těla s interpretací výsledků (30 minut)",
+        "price": 2000,
+        "note": "Nutné vybrat během 6 měsíců",
+        "keywords": []
+      },
+      {
+        "name": "Vstupní konzultace s nutriční terapeutkou (60 minut)",
+        "price": 1000,
         "note": "",
         "keywords": []
       },
       {
-        "name": "Konzultace bez InBody (60 minut)",
-        "price": 660,
+        "name": "Vstupní konzultace s nutriční terapeutkou (30 minut)",
+        "price": 600,
         "note": "",
         "keywords": []
       },
       {
-        "name": "Hodnocení jídelníčku + InBody",
-        "price": 770,
-        "note": "",
-        "keywords": []
-      },
-      {
-        "name": "Případné další konzultace kontrolní (30 minut)",
-        "price": 310,
-        "note": "",
+        "name": "Kontrolní konzultace s nutriční terapeutkou (30 minut)",
+        "price": 400,
+        "note": "Navazuje na vstupní konzultaci. Součástí je kontrolní měření složení těla.",
         "keywords": []
       },
       {
@@ -213,6 +213,12 @@
       {
         "name": "Nutriční konzultace + jídelníček na měsíc",
         "price": 4600,
+        "note": "",
+        "keywords": []
+      },
+      {
+        "name": "Nutriční konzultace + jídelníček na 7 dní",
+        "price": 1500,
         "note": "",
         "keywords": []
       }
