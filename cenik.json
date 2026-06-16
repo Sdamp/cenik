@@ -221,6 +221,12 @@
         "price": 4600,
         "note": "",
         "keywords": []
+      },
+      {
+        "name": "Edukace diety",
+        "price": 750,
+        "note": "Vysvětlení stravy při dietním omezení dle doporučení lékaře",
+        "keywords": []
       }
     ]
   },
