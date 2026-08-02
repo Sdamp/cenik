@@ -287,6 +287,12 @@
         "price": 400,
         "note": "Ošetření je prováděno pomocí přístroje BTL-6000 High Intensity o výkonu 20W",
         "keywords": []
+      },
+      {
+        "name": "Balíček 5x ošetření vysokovýkonovým laserem 20W 5min ošetření",
+        "price": 1800,
+        "note": "Ošetření je prováděno pomocí přístroje BTL-6000 High Intensity o výkonu 20W",
+        "keywords": []
       }
     ]
   },
