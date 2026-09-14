@@ -517,6 +517,11 @@
     ]
   },
   {
+    "name": "Plastická a estetická chirurgie",
+    "note": "",
+    "items": []
+  },
+  {
     "name": "Obezitologie",
     "note": "",
     "items": [
@@ -533,10 +538,5 @@
         "keywords": []
       }
     ]
-  },
-  {
-    "name": "Plastická a estetická chirurgie",
-    "note": "",
-    "items": []
   }
 ]
