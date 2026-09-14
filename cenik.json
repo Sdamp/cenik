@@ -439,8 +439,10 @@
       {
         "name": "Horní blepharoplastika",
         "price": 14000,
-        "note": "víčka",
-        "keywords": []
+        "note": "",
+        "keywords": [
+          "víčka"
+        ]
       },
       {
         "name": "Korekce ušních lalůčků – 1 strana",
