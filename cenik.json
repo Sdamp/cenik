@@ -231,11 +231,6 @@
     ]
   },
   {
-    "name": "Plastická a estetická chirurgie",
-    "note": "",
-    "items": []
-  },
-  {
     "name": "Fyzioterapie",
     "note": "",
     "items": [
@@ -300,6 +295,11 @@
         "keywords": []
       }
     ]
+  },
+  {
+    "name": "Plastická a estetická chirurgie",
+    "note": "",
+    "items": []
   },
   {
     "name": "Kosmetika",
