@@ -459,6 +459,12 @@
         "price": 1200,
         "note": "Každé další ložiško 600 Kč",
         "keywords": []
+      },
+      {
+        "name": "Velká excize z kosmet. indik.",
+        "price": 4500,
+        "note": "",
+        "keywords": []
       }
     ]
   },
