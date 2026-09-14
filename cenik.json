@@ -513,6 +513,12 @@
         "keywords": [
           "botox"
         ]
+      },
+      {
+        "name": "Korekce vpáčené bradavky",
+        "price": 10000,
+        "note": "",
+        "keywords": []
       }
     ]
   },
