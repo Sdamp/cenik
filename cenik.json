@@ -561,12 +561,8 @@
       {
         "name": "Komplexní tělovýchovná prohlídka",
         "price": 2500,
-        "note": "",
-        "keywords": [
-          "Klidové EKG",
-          "zátěžová spiroergometrie",
-          "vyšetření fyzioterapeutem a měření složení těla a síly stisku"
-        ]
+        "note": "Klidové EKG, zátěžová spiroergometrie, vyšetření fyzioterapeutem a tělovýchovným lékařem a měření složení těla a síly stisku a následná konzultace s nutričním terapeutem.",
+        "keywords": []
       }
     ]
   },
