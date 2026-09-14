@@ -435,7 +435,14 @@
   {
     "name": "Plastická a estetická chirurgie",
     "note": "",
-    "items": []
+    "items": [
+      {
+        "name": "Horní blepharoplastika",
+        "price": 14000,
+        "note": "",
+        "keywords": []
+      }
+    ]
   },
   {
     "name": "Sportovní Prohlídky",
