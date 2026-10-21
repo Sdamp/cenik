@@ -451,12 +451,6 @@
         "keywords": []
       },
       {
-        "name": "Korekce ušních lalůčků – 2 strany",
-        "price": 6900,
-        "note": "",
-        "keywords": []
-      },
-      {
         "name": "Konzultace problému s plastickým chirurgem",
         "price": 500,
         "note": "",
@@ -467,6 +461,12 @@
           "chirurg",
           "problém"
         ]
+      },
+      {
+        "name": "Korekce ušních lalůčků – 2 strany",
+        "price": 6900,
+        "note": "",
+        "keywords": []
       },
       {
         "name": "Malá excize z kosmet. indikace – 1 ložisko",
