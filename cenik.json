@@ -487,14 +487,6 @@
         "keywords": []
       },
       {
-        "name": "Aplikace botulotoxinu – 1 oblast",
-        "price": 2000,
-        "note": "K ceně služby bude připočtena cena skutečně spotřebovaného materiálu.",
-        "keywords": [
-          "botox"
-        ]
-      },
-      {
         "name": "Konzultace problému s plastickým chirurgem",
         "price": 500,
         "note": "",
@@ -504,6 +496,14 @@
           "plastický",
           "chirurg",
           "problém"
+        ]
+      },
+      {
+        "name": "Aplikace botulotoxinu – 1 oblast",
+        "price": 2000,
+        "note": "K ceně služby bude připočtena cena skutečně spotřebovaného materiálu.",
+        "keywords": [
+          "botox"
         ]
       },
       {
