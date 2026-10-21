@@ -437,14 +437,6 @@
     "note": "",
     "items": [
       {
-        "name": "Horní blepharoplastika",
-        "price": 14000,
-        "note": "",
-        "keywords": [
-          "víčka"
-        ]
-      },
-      {
         "name": "Konzultace problému s plastickým chirurgem",
         "price": 500,
         "note": "",
@@ -454,6 +446,14 @@
           "plastický",
           "chirurg",
           "problém"
+        ]
+      },
+      {
+        "name": "Horní blepharoplastika",
+        "price": 14000,
+        "note": "",
+        "keywords": [
+          "víčka"
         ]
       },
       {
