@@ -445,12 +445,6 @@
         ]
       },
       {
-        "name": "Korekce ušních lalůčků – 1 strana",
-        "price": 3500,
-        "note": "",
-        "keywords": []
-      },
-      {
         "name": "Konzultace problému s plastickým chirurgem",
         "price": 500,
         "note": "",
@@ -461,6 +455,12 @@
           "chirurg",
           "problém"
         ]
+      },
+      {
+        "name": "Korekce ušních lalůčků – 1 strana",
+        "price": 3500,
+        "note": "",
+        "keywords": []
       },
       {
         "name": "Korekce ušních lalůčků – 2 strany",
