@@ -469,12 +469,6 @@
         "keywords": []
       },
       {
-        "name": "Aplikace piercingu / naušnice",
-        "price": 600,
-        "note": "",
-        "keywords": []
-      },
-      {
         "name": "Konzultace problému s plastickým chirurgem",
         "price": 500,
         "note": "",
@@ -485,6 +479,12 @@
           "chirurg",
           "problém"
         ]
+      },
+      {
+        "name": "Aplikace piercingu / naušnice",
+        "price": 600,
+        "note": "",
+        "keywords": []
       },
       {
         "name": "Korekce jizev – malá do 5cm",
