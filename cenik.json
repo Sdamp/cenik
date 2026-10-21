@@ -457,12 +457,6 @@
         "keywords": []
       },
       {
-        "name": "Malá excize z kosmet. indikace – 1 ložisko",
-        "price": 1400,
-        "note": "Každé další ložiško 700 Kč",
-        "keywords": []
-      },
-      {
         "name": "Konzultace problému s plastickým chirurgem",
         "price": 500,
         "note": "",
@@ -473,6 +467,12 @@
           "chirurg",
           "problém"
         ]
+      },
+      {
+        "name": "Malá excize z kosmet. indikace – 1 ložisko",
+        "price": 1400,
+        "note": "Každé další ložiško 700 Kč",
+        "keywords": []
       },
       {
         "name": "Velká excize z kosmet. indik.",
