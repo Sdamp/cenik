@@ -475,12 +475,6 @@
         "keywords": []
       },
       {
-        "name": "Korekce jizev – malá do 5cm",
-        "price": 4600,
-        "note": "",
-        "keywords": []
-      },
-      {
         "name": "Konzultace problému s plastickým chirurgem",
         "price": 500,
         "note": "",
@@ -491,6 +485,12 @@
           "chirurg",
           "problém"
         ]
+      },
+      {
+        "name": "Korekce jizev – malá do 5cm",
+        "price": 4600,
+        "note": "",
+        "keywords": []
       },
       {
         "name": "Korekce jizev – velká 5-20cm",
