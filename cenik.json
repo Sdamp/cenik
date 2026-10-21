@@ -481,12 +481,6 @@
         "keywords": []
       },
       {
-        "name": "Korekce jizev – velká 5-20cm",
-        "price": 6900,
-        "note": "",
-        "keywords": []
-      },
-      {
         "name": "Konzultace problému s plastickým chirurgem",
         "price": 500,
         "note": "",
@@ -497,6 +491,12 @@
           "chirurg",
           "problém"
         ]
+      },
+      {
+        "name": "Korekce jizev – velká 5-20cm",
+        "price": 6900,
+        "note": "",
+        "keywords": []
       },
       {
         "name": "Aplikace botulotoxinu – 1 oblast",
