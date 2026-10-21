@@ -509,6 +509,18 @@
         "keywords": [
           "botox"
         ]
+      },
+      {
+        "name": "Konzultace problému s plastickým chirurgem",
+        "price": 500,
+        "note": "",
+        "keywords": [
+          "konzultace",
+          "plastika",
+          "plastický",
+          "chirurg",
+          "problém"
+        ]
       }
     ]
   },
