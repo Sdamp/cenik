@@ -649,6 +649,12 @@
         "keywords": [
           "ECHO"
         ]
+      },
+      {
+        "name": "Ultrazvuk prsu",
+        "price": 820,
+        "note": "",
+        "keywords": []
       }
     ]
   }
