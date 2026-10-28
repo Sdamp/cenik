@@ -641,6 +641,15 @@
   {
     "name": "Zobrazovací vyšetření",
     "note": "",
-    "items": []
+    "items": [
+      {
+        "name": "Ultrazvuk srdce (ECHO)",
+        "price": 1850,
+        "note": "",
+        "keywords": [
+          "ECHO"
+        ]
+      }
+    ]
   }
 ]
