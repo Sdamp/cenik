@@ -67,6 +67,38 @@ const formatCount = (count) => {
 
 const formatPrice = (price) => price === 0 ? 'zdarma' : `${price.toLocaleString('cs-CZ')} Kč`;
 
+// Zvýhodněná cena pro registrované pacienty — pole `registeredPrice`
+// (a u slevy v % i `registeredDiscountPercent`) posílá intranet jen u položek,
+// které ji mají. Částka je už spočítaná a zaokrouhlená, web nic nepočítá.
+// Texty odpovídají intranetu (backend/shared/cenik/registeredPrice.js).
+const REGISTERED_LABEL = 'Registrovaní pacienti';
+const REGISTERED_LABEL_SHORT = 'Registrovaní';
+const REGULAR_LABEL = 'Běžná cena';
+const REGISTERED_NOTE = 'Zvýhodněná cena pro pacienty registrované na našich obvodech. '
+    + 'Slevu může uplatnit registrovaný pacient i pro své dítě mladší 18 let.';
+
+const hasRegisteredPrice = (item) => typeof item.registeredPrice === 'number';
+
+const formatPercent = (percent) => `−${percent.toLocaleString('cs-CZ')} %`;
+
+// Prvek s vysvětlivkou: title pro myš, tabindex + aria-describedby pro
+// klávesnici a čtečky, po klepnutí (focus) se ukáže bublina i na dotyku.
+const tipAttrs = (noteId) =>
+    `tabindex="0" title="${escapeHtml(REGISTERED_NOTE)}" aria-describedby="${noteId}" data-tip="${escapeHtml(REGISTERED_NOTE)}"`;
+
+const renderRegisteredCell = (item, noteId) => {
+    if (!hasRegisteredPrice(item)) {
+        return `<span class="price price-registered price-none" aria-label="Bez zvýhodněné ceny">–</span>`;
+    }
+    const discountHtml = typeof item.registeredDiscountPercent === 'number'
+        ? `<span class="reg-discount">${formatPercent(item.registeredDiscountPercent)}</span>`
+        : '';
+    return `<span class="price price-registered">
+                <span class="reg-price has-tip" ${tipAttrs(noteId)}>${formatPrice(item.registeredPrice)}</span>
+                ${discountHtml}
+            </span>`;
+};
+
 const renderCategoryCard = (category, index) => `
     <button type="button" class="category-card" data-index="${index}">
         <span class="category-card-name">${escapeHtml(category.name)}</span>
@@ -76,22 +108,44 @@ const renderCategoryCard = (category, index) => `
 
 const renderCategory = (category, index) => {
     const noteHtml = category.note ? `<p class="category-note">${escapeHtml(category.note)}</p>` : '';
+    // Dva cenové sloupce jen u kategorií, kde má zvýhodněnou cenu aspoň jedna položka
+    const withRegistered = category.items.some(hasRegisteredPrice);
+    const noteId = `reg-note-${index}`;
+
     const itemsHtml = category.items.map(item => {
         const keywords = item.keywords ? item.keywords.join(' ').toLowerCase() : '';
         const itemNoteHtml = item.note ? `<div class="item-note">${escapeHtml(item.note)}</div>` : '';
+        const registeredHtml = withRegistered ? renderRegisteredCell(item, noteId) : '';
         return `<li class="item" data-item-name="${escapeHtml(item.name.toLowerCase())}" data-keywords="${escapeHtml(keywords)}">
-                    <div class="item-header">
+                    <div class="item-header${withRegistered ? ' with-registered' : ''}">
                         <span class="item-name">${escapeHtml(item.name)}</span>
                         <span class="price">${formatPrice(item.price)}</span>
+                        ${registeredHtml}
                     </div>
                     ${itemNoteHtml}
                 </li>`;
     }).join('');
 
+    const priceHeadHtml = withRegistered
+        ? `<div class="price-head">
+                <span></span>
+                <span class="price-head-cell">${REGULAR_LABEL}</span>
+                <span class="price-head-cell has-tip" ${tipAttrs(noteId)}>
+                    <span class="label-full">${REGISTERED_LABEL}</span><span class="label-short">${REGISTERED_LABEL_SHORT}</span>
+                    <span class="tip-mark" aria-hidden="true">?</span>
+                </span>
+            </div>`
+        : '';
+    const registeredNoteHtml = withRegistered
+        ? `<p class="registered-note" id="${noteId}"><strong>${REGISTERED_LABEL}:</strong> ${escapeHtml(REGISTERED_NOTE)}</p>`
+        : '';
+
     return `<li class="category" data-index="${index}" data-category-name="${escapeHtml(category.name.toLowerCase())}">
                 <h2>${escapeHtml(category.name)}</h2>
                 ${noteHtml}
+                ${priceHeadHtml}
                 <ul>${itemsHtml}</ul>
+                ${registeredNoteHtml}
             </li>`;
 };
 

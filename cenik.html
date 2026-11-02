@@ -230,6 +230,122 @@
       white-space: nowrap;
     }
 
+    /* Zvýhodněná cena pro registrované pacienty — dva cenové sloupce */
+    .price-head,
+    .item-header.with-registered {
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) 110px 170px;
+      column-gap: 16px;
+      align-items: baseline;
+    }
+
+    .price-head {
+      padding: 0 16px 6px 19px;
+      font-size: 12px;
+      font-weight: 600;
+      letter-spacing: 0.04em;
+      text-transform: uppercase;
+      color: #666;
+    }
+
+    .price-head-cell {
+      text-align: right;
+    }
+
+    .item-header.with-registered .price {
+      margin-left: 0;
+      text-align: right;
+    }
+
+    .item .price.price-registered {
+      color: #009d7b;
+    }
+
+    .reg-price {
+      cursor: help;
+      border-bottom: 1px dotted currentColor;
+    }
+
+    .reg-discount {
+      display: inline-block;
+      margin-left: 6px;
+      padding: 1px 6px;
+      border-radius: 10px;
+      background: #fcedf5;
+      color: #d75d9e;
+      font-size: 12px;
+      font-weight: 600;
+      vertical-align: 2px;
+    }
+
+    .item .price.price-none {
+      color: #999;
+      font-weight: 400;
+    }
+
+    .tip-mark {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      width: 15px;
+      height: 15px;
+      margin-left: 4px;
+      border-radius: 50%;
+      background: #009d7b;
+      color: white;
+      font-size: 10px;
+      letter-spacing: 0;
+      vertical-align: 1px;
+    }
+
+    .label-short {
+      display: none;
+    }
+
+    .has-tip {
+      position: relative;
+      cursor: help;
+    }
+
+    .has-tip:focus {
+      outline: none;
+    }
+
+    .has-tip:focus-visible {
+      outline: 2px solid #009d7b;
+      outline-offset: 2px;
+      border-radius: 2px;
+    }
+
+    /* Bublina po klepnutí / fokusu (na dotyku není hover) */
+    .has-tip:focus::after {
+      content: attr(data-tip);
+      position: absolute;
+      top: calc(100% + 6px);
+      right: 0;
+      z-index: 10;
+      width: 260px;
+      max-width: 80vw;
+      padding: 8px 10px;
+      border-radius: 6px;
+      background: #333;
+      color: white;
+      font-size: 13px;
+      font-weight: 400;
+      line-height: 1.4;
+      letter-spacing: 0;
+      text-transform: none;
+      text-align: left;
+      white-space: normal;
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+    }
+
+    .registered-note {
+      font-size: 12px;
+      color: #666;
+      margin: 10px 0 0;
+    }
+
     .item:hover {
       background: #fcedf5;
       border-left-color: #d75d9e;
@@ -274,6 +390,26 @@
 
       .category {
         padding-left: 12px;
+      }
+
+      .price-head,
+      .item-header.with-registered {
+        grid-template-columns: minmax(0, 1fr) 84px 100px;
+        column-gap: 10px;
+      }
+
+      .label-full {
+        display: none;
+      }
+
+      .label-short {
+        display: inline;
+      }
+
+      .reg-discount {
+        display: block;
+        width: fit-content;
+        margin: 2px 0 0 auto;
       }
     }
 
