@@ -544,7 +544,9 @@
         "name": "Komplexní tělovýchovná prohlídka",
         "price": 2500,
         "note": "Prohlídka zahrnuje klidové EKG, zátěžovou spiroergometrii, komplexní vyšetření tělovýchovným lékařem a fyzioterapeutem, analýzu složení těla spojenou s měřením síly úchopu a následnou konzultaci s nutričním terapeutem.",
-        "keywords": []
+        "keywords": [],
+        "registeredPrice": 2250,
+        "registeredDiscountPercent": 10
       },
       {
         "name": "Spirometrie",
