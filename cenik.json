@@ -275,6 +275,12 @@
         "price": 1800,
         "note": "Ošetření je prováděno pomocí přístroje BTL-6000 High Intensity o výkonu 20W",
         "keywords": []
+      },
+      {
+        "name": "Ultrazvuková terapie",
+        "price": 200,
+        "note": "Pokud je ultrazvuková terapie nebo elektroterapie prováděna v rámci individuální terapie, pak se nehradí (zahrnuto v ceně individuální terapie)",
+        "keywords": []
       }
     ]
   },
