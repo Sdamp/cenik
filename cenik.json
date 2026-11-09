@@ -281,6 +281,12 @@
         "price": 200,
         "note": "Pokud je ultrazvuková terapie nebo elektroterapie prováděna v rámci individuální terapie, pak se nehradí (zahrnuto v ceně individuální terapie)",
         "keywords": []
+      },
+      {
+        "name": "Elektroterapie",
+        "price": 200,
+        "note": "Pokud je ultrazvuková terapie nebo elektroterapie prováděna v rámci individuální terapie, pak se nehradí (zahrnuto v ceně individuální terapie)",
+        "keywords": []
       }
     ]
   },
